@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["MultipartItem",""]],"struct":[["Field","A single field in a multipart stream"],["FieldChunk","A field's chunk"],["Multipart","The server-side implementation of `multipart/form-data` requests."]]});

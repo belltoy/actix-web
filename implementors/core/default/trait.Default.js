@@ -1,0 +1,10 @@
+(function() {var implementors = {};
+implementors["actix_web"] = ["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/default/trait.Default.html\" title=\"trait core::default::Default\">Default</a> for <a class=\"struct\" href=\"actix_web/struct.HttpRequest.html\" title=\"struct actix_web::HttpRequest\">HttpRequest</a>&lt;<a class=\"primitive\" href=\"https://doc.rust-lang.org/nightly/std/primitive.unit.html\">()</a>&gt;","impl&lt;S:&nbsp;'static&gt; <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/default/trait.Default.html\" title=\"trait core::default::Default\">Default</a> for <a class=\"struct\" href=\"actix_web/struct.Route.html\" title=\"struct actix_web::Route\">Route</a>&lt;S&gt;","impl&lt;'a&gt; <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/default/trait.Default.html\" title=\"trait core::default::Default\">Default</a> for <a class=\"struct\" href=\"actix_web/dev/struct.Params.html\" title=\"struct actix_web::dev::Params\">Params</a>&lt;'a&gt;","impl&lt;S&gt; <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/default/trait.Default.html\" title=\"trait core::default::Default\">Default</a> for <a class=\"struct\" href=\"actix_web/struct.Resource.html\" title=\"struct actix_web::Resource\">Resource</a>&lt;S&gt;","impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/default/trait.Default.html\" title=\"trait core::default::Default\">Default</a> for <a class=\"struct\" href=\"actix_web/dev/struct.ServerSettings.html\" title=\"struct actix_web::dev::ServerSettings\">ServerSettings</a>","impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/default/trait.Default.html\" title=\"trait core::default::Default\">Default</a> for <a class=\"struct\" href=\"actix_web/middlewares/struct.Logger.html\" title=\"struct actix_web::middlewares::Logger\">Logger</a>",];
+
+            if (window.register_implementors) {
+                window.register_implementors(implementors);
+            } else {
+                window.pending_implementors = implementors;
+            }
+        
+})()
